@@ -1,0 +1,10 @@
+C:\Users\Inx\Desktop\Base64 decoder\Base64 decoder\bin\Debug\Base64 decoder.exe.config
+C:\Users\Inx\Desktop\Base64 decoder\Base64 decoder\bin\Debug\Base64 decoder.exe
+C:\Users\Inx\Desktop\Base64 decoder\Base64 decoder\bin\Debug\Base64 decoder.pdb
+C:\Users\Inx\Desktop\Base64 decoder\Base64 decoder\bin\Debug\dnlib.dll
+C:\Users\Inx\Desktop\Base64 decoder\Base64 decoder\bin\Debug\dnlib.xml
+C:\Users\Inx\Desktop\Base64 decoder\Base64 decoder\obj\Debug\Base64 decoder.csproj.AssemblyReference.cache
+C:\Users\Inx\Desktop\Base64 decoder\Base64 decoder\obj\Debug\Base64 decoder.csproj.CoreCompileInputs.cache
+C:\Users\Inx\Desktop\Base64 decoder\Base64 decoder\obj\Debug\Base64 d.23C952A0.Up2Date
+C:\Users\Inx\Desktop\Base64 decoder\Base64 decoder\obj\Debug\Base64 decoder.exe
+C:\Users\Inx\Desktop\Base64 decoder\Base64 decoder\obj\Debug\Base64 decoder.pdb
